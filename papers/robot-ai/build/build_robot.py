@@ -223,7 +223,7 @@ for el in cover:
     emit(el)
 
 AUTH = 'Нүсіпжан Жансейіт, Асылбекова Б. К.'
-EMAIL = '[[HL:email@meta.edu.kz]]'
+EMAIL = 'zh.nysipzhan@meta.edu.kz'
 
 def title_block(title, aff, label, paras, kw_label, kw, first_ind=None):
     emit(add_text(new_p(T_TITLE), title, bold=True))
